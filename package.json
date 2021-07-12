@@ -1,6 +1,6 @@
 {
-  "name": "@turnoutt/capacitor-firebase-dynamic-links",
-  "version": "0.2.3",
+  "name": "@ubie-inc/capacitor-firebase-dynamic-links",
+  "version": "0.0.1",
   "description": "Capacitor Plugin for Firebase Dynamic Links",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -10,7 +10,7 @@
     "watch": "tsc --watch",
     "prepublishOnly": "npm run build"
   },
-  "author": "Bharani",
+  "author": "Tatsuro Nakamura",
   "license": "MIT",
   "dependencies": {
     "@capacitor/core": "latest"
@@ -24,7 +24,7 @@
     "dist/",
     "ios/",
     "android/",
-    "TurnouttCapacitorFirebaseDynamicLinks.podspec"
+    "UbieIncCapacitorFirebaseDynamicLinks.podspec"
   ],
   "keywords": [
     "capacitor",
