@@ -24,7 +24,7 @@
     "dist/",
     "ios/",
     "android/",
-    "UbieIncCapacitorFirebaseDynamicLinks.podspec"
+    "UbieOssCapacitorFirebaseDynamicLinks.podspec"
   ],
   "keywords": [
     "capacitor",
