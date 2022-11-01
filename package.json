@@ -1,5 +1,5 @@
 {
-  "name": "@ubie-inc/capacitor-firebase-dynamic-links",
+  "name": "@ubie-oss/capacitor-firebase-dynamic-links",
   "version": "0.0.1",
   "description": "Capacitor Plugin for Firebase Dynamic Links",
   "main": "dist/esm/index.js",
